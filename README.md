@@ -1,7 +1,16 @@
-# dormtaskmanager_poc
-Proof of Concepts learned during a TypeScript Mini Course in form of a BackEnd application for Dorm residents to share a task board
 
-Routes and their respective usage
+# Dorm Task Manager (POC)
+
+Proof of concepts learned during a TypeScript Mini Course in form of a backend application
+for Dorm residents to share a task board
+
+
+## Stack 
+
+**Back-end:** Node, Express, TypeScript
+**Database:** PostgreSQL
+
+## Routes and their respective  features
 
 POST: /tasks
 
